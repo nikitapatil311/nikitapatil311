@@ -7,7 +7,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
 </a>
-<a href="mailto:i@blackcater.dev">
+<a href="mailto:patilnikitansp0@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
 <a href="https://leetcode-cn.com/u/blackcater/">
