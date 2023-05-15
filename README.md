@@ -13,6 +13,13 @@
 
 - **Youtube: ([https://www.youtube.com/channel/UC7-FIPYuGBxD5RzInWIXF4w](https://www.youtube.com/channel/UCeKqFJSTvMcMUU4ivVf5LjA))**
 
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+</h3>
 
 
