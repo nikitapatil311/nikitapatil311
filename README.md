@@ -1,6 +1,6 @@
 ### Hi, I'm Nikita S Patil 👋
 
-**A WebDeveloper.
+**A Web Developer**
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
