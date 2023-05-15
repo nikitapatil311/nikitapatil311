@@ -1,6 +1,9 @@
 ### Hi, I'm Nikita S Patil 👋
 
-**A Web Developer**
+**A Full Stack Web Developer**
+<br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
@@ -14,8 +17,6 @@
 - **Youtube: ([https://www.youtube.com/channel/UC7-FIPYuGBxD5RzInWIXF4w](https://www.youtube.com/channel/UCeKqFJSTvMcMUU4ivVf5LjA))**
 
 <br/>
-<br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
+
 
 
