@@ -13,7 +13,7 @@
 - 👯 I’m willing to develop more frontend projects.
 - 📫 How to reach me: nikitaspatil301@gmail.com
 - 😄 Pronouns: she/her.
-- **📫 Linkdin: ([https://relentless-hustler-6722.ck.page/410dad83c2](https://www.linkedin.com/in/nikita-p-125a9a120/))**
+- **📫 Linkdin: ([Linkdin](https://www.linkedin.com/in/nikita-p-125a9a120/))**
 
 - **Youtube: ([https://www.youtube.com/channel/UC7-FIPYuGBxD5RzInWIXF4w](https://www.youtube.com/channel/UCeKqFJSTvMcMUU4ivVf5LjA))**
 
