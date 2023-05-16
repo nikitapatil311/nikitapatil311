@@ -15,7 +15,7 @@
 - 😄 Pronouns: she/her.
 - **📫 Linkdin: ([Linkdin](https://www.linkedin.com/in/nikita-p-125a9a120/))**
 
-- **Youtube: ([https://www.youtube.com/channel/UC7-FIPYuGBxD5RzInWIXF4w](https://www.youtube.com/channel/UCeKqFJSTvMcMUU4ivVf5LjA))**
+- **Youtube: (Youtube](https://www.youtube.com/channel/UCeKqFJSTvMcMUU4ivVf5LjA))**
 
 <br/>
 
