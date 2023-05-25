@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS, NodeJS.
 - 👯 I’m willing to develop more frontend projects.
 - 📫 How to reach me: nikitaspatil301@gmail.com
-- 😄 Pronouns: she/her.
 - **📫 Linkdin: ([Linkdin](https://www.linkedin.com/in/nikita-p-125a9a120/))**
 
 - **Youtube: ([Youtube](https://www.youtube.com/channel/UCeKqFJSTvMcMUU4ivVf5LjA))**
