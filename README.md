@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/Y0b2MpUTfnrUa3jIM7" width="324" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/to-do-list-devrix-teamdevrix-Y0b2MpUTfnrUa3jIM7">via GIPHY</a></p>
+
 
 ### Hi, I'm Nikita S Patil 👋
 
