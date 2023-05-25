@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
-- 🔭 I’m currently taking intense course on Web development at Spiced Academy.
+- 🔭 I’m currently taking intense course on Web development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS, NodeJS.
 - 👯 I’m willing to develop more frontend projects.
 - 📫 How to reach me: nikitaspatil301@gmail.com
