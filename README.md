@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/NikitaPatil/NikitaPatil/master/name.svg" alt="Nikita S Patil" />
-</h1>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Nikita 👋 I'm a 🚀 Front End Developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 
 ### Hi, I'm Nikita S Patil 👋
 
