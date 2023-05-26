@@ -23,9 +23,9 @@
 <p align="center">
   
   <a href="mailto:nikitaspatil301@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="[https://www.linkedin.com/in/mathieu-ledru](https://www.linkedin.com/in/nikita-s-patil/)"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-    <a href="[https://www.youtube.com/user/matyo91](https://www.youtube.com/channel/UCeKqFJSTvMcMUU4ivVf5LjA)"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
-    <a href="[https://www.instagram.com/matyo91](https://www.instagram.com/nikita_.s._patil/?next=%2F)"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.linkedin.com/in/nikita-s-patil/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+    <a href="https://www.youtube.com/channel/UCeKqFJSTvMcMUU4ivVf5LjA"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+    <a href="https://www.instagram.com/nikita_.s._patil/?next=%2F"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
     
 </p>
 
