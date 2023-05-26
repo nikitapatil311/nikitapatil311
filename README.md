@@ -38,7 +38,7 @@
     * *The world’s first computer mouse was wooden, not plastic..*
     
     * *If you're still reading, why not follow me ?? Let's Connect !!*
-    * <div align="center">
+     <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 </div>
 
