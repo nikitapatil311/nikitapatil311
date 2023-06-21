@@ -19,6 +19,10 @@
 ## :link: Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nikitapatil311&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+
+## :link: Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma)](https://skillicons.dev)
+
 ## :link: Links
 <p align="center">
   
