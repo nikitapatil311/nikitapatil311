@@ -38,7 +38,7 @@ Curious, enthusiastic and student most of the time, like to learn new stuff, cod
 </div>
 
 ## :link: Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,next,vscode,git,github,jest,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,next,vscode,git,github,jest,nodejs,typescript)](https://skillicons.dev)
 
 ## :link: Links
 <p align="center">
