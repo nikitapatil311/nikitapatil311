@@ -40,6 +40,20 @@ Curious, enthusiastic and student most of the time, like to learn new stuff, cod
 ## :link: Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,next,vscode,git,github,jest,nodejs,typescript,tailwindcss)](https://skillicons.dev)
 
+## :link: Projects
+- [Ricky Morty App](https://ricky-morty-app-khaki.vercel.app/)
+  An app where you can explore a collection of cards related to the "Rick and Morty" show. You can 
+  view more cards and search for specific cards to find information about various characters, 
+  episodes, and more.
+- [AnyList Grocery Shopping App](https://any-list.vercel.app/)
+  A grocery shopping app where you can buy items online and offline by scanning barcodes.
+- [Art Gallery App](https://art-gallery-app-nine.vercel.app/)
+  An app to explore various artworks in a virtual art gallery.
+- [Tourio App](https://tourio-app-theta.vercel.app/)
+  An app to view, add, edit, and delete places, making it easy to explore new destinations.
+
+
+
 ## :link: Links
 <p align="center">
 <a href="mailto:nikitaspatil301@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
