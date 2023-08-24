@@ -37,6 +37,8 @@ Curious, enthusiastic and student most of the time, like to learn new stuff, cod
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitapatil311&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitapatil311&label=Profile%20views&color=yellow&style=flat" alt="nikitapatil311" /> </p>
+
 ## :link: Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,next,vscode,git,github,jest,nodejs,typescript,tailwindcss)](https://skillicons.dev)
 
