@@ -6,8 +6,10 @@
     
 Curious, enthusiastic and student most of the time, like to learn new stuff, coding and having fun everyday <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="180px"/>
-<br>
+<p>
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="180px" border-radius="10px" />
+<br><br>
+</p>
 
 
 ### 🧐 More About Me:
