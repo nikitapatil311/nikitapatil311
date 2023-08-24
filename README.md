@@ -17,8 +17,7 @@ Curious, enthusiastic and student most of the time, like to learn new stuff, cod
 🌱 &nbsp;I’m currently learning HTML, CSS, JavaScript, ReactJS, NodeJS, NextJS, Tailwind, MongoDB.\
 ✍️ &nbsp;In my free time, I enjoy sketching zentangle, doodle art, cooking, spending time with family and pet.\
 🌱 &nbsp;I like building and implementing captivating user interfaces for web applications. 
-<br><br>
-<br>
+
 ## :link: 📊 Statistics
 
 
