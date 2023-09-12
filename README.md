@@ -40,6 +40,7 @@ Curious, enthusiastic and student most of the time, like to learn new stuff, cod
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitapatil311&label=Profile%20views&color=yellow&style=flat" alt="nikitapatil311" /> </p>
 
+
 ## :link: Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,next,vscode,git,github,jest,nodejs,typescript,tailwindcss)](https://skillicons.dev)
 
